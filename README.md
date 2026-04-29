@@ -7,7 +7,7 @@
 
 | Component | URL |
 |-----------|-----|
-| 🌐 Frontend(Website Link) | https://sers-frontend-de9z.vercel.app |
+| Website Link | https://sers-frontend-de9z.vercel.app |
 
 ---
 
